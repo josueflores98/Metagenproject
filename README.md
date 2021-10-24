@@ -8,4 +8,5 @@ canal de Pat Schloss para responder una pregunta importante dentro de la
 microbiologia y desarrollar herramientas para practicas de investigacion
 reproducibles.
 
-
+Dependencies:
+mothur v.1.44.1
